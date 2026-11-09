@@ -9,3 +9,4 @@
 | Paper-Artifacts.xlsx | artifacts raw term and node |
 | Taxonomy.xlsx | taxonomy, artifact family source, supplement |
 | Association.xlsx | association |
+| RQ2.xlsx | Technique, Representation, Accessibility, Metrics |
